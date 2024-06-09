@@ -10,11 +10,6 @@
     "link": "https://cloudreve.gumengyo.top/"
   },
   {
-    "icon": "Tasks",
-    "name": "备忘录",
-    "link": "https://memos.gumengyo.top/"
-  },
-  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://tool.liumingye.cn/music/#/"
@@ -28,11 +23,6 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "Robot",
-    "name": "GPT4",
-    "link": "https://www.coze.com/store/bot/7350941847826497538?bid=MDQEED0VkGaLYeK-MfL-UOOrBuwEHt8C4T4rrgsscUkge91Sy9isPs_7G5CBVu-E4bz6nQQA&from=bots_card&panel=1"
   },
   {
     "icon": "LaptopCode",
